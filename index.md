@@ -1,17 +1,32 @@
-## Welcome to Philocave
+# Welcome to Philocave
+You are welcome here. You are also welcome elsewhere: Our [github](http://github.com/philocave), our WeChat, and our [website](http://philocave.org).
 
-You are welcome here. You are also welcome elsewhere: Our [github](http://github.com/philocave), our WeChat, and our website.
-
-### Join Us
-
-Interested in the work we do? Reach out!
+## Join Us
+Interested in the work we do? [Reach out](philocave.org@gmail.com)!
 
 ```markdown
-Syntax highlighted code block
+Welcome to our organization
 
-# Header 1
-## Header 2
-### Header 3
+# Organization Structure
+1. Sharable Contents
+2. Design
+3. Outreach
+4. Admin and Ops
+5. Event Curator
+6. Academic Facilitator
+7. Non Academic Facilitator
+8. Feedback System
+
+# Core Team
+A
+B
+C
+D
+E
+F
+G
+
+# Want more information
 
 - Bulleted
 - List
@@ -23,12 +38,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Philocave
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/philocave-admin/philocave.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Sharable contents
 
 ### Support or Contact
 
